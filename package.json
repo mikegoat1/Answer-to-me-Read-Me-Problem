@@ -1,22 +1,14 @@
 {
-  "name": "readme",
+  "name": "static-site",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/mikegoat1/Answer-to-me-Read-Me-Problem.git"
-  },
-  "author": "Mikey J",
+  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/mikegoat1/Answer-to-me-Read-Me-Problem/issues"
-  },
-  "homepage": "https://github.com/mikegoat1/Answer-to-me-Read-Me-Problem#readme",
   "dependencies": {
-    "inquirer": "^8.1.0"
+    "inquirer": "^6.5.2"
   }
 }
